@@ -4,8 +4,6 @@ Light Cache is a lightweight and simple in-memory internal cache module for Node
 
 ### Dependencies
 
-Dillinger uses a number of open source projects to work properly:
-
 * [extend] - Simple function to extend objects
 
 ### Installation
