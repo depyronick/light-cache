@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/p0d3r/light-cache/issues"
   },
-  "homepage": "https://github.com/p0d3r/light-cache#readme"
+  "homepage": "https://github.com/p0d3r/light-cache#readme",
+  "dependencies": {
+    "extend": "^3.0.0"
+  }
 }
